@@ -43,8 +43,7 @@ This robot is designed to:
 
 ### Clone and Build
 
-```bash
-git clone https://github.com/YOUR_USERNAME/autonomous-robot-project3.git
+```bash  
 cd autonomous-robot-project3/ROS2
 colcon build
 source install/setup.bash
