@@ -1,4 +1,4 @@
-## 🧠 Overview
+## Overview
 
 This robot is designed to:
 
@@ -9,7 +9,7 @@ This robot is designed to:
 
 ---
 
-## 🔧 Hardware Components
+## Hardware Components
 
 - **Raspberry Pi 4** (running Ubuntu 20.04, ROS 2 Humble)
 - **Arduino Mega 2560**
@@ -21,7 +21,7 @@ This robot is designed to:
 
 ---
 
-## 💻 Software Features
+## Software Features
 
 ### ROS 2 Node (C++)
 
@@ -39,7 +39,7 @@ This robot is designed to:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone and Build
 
